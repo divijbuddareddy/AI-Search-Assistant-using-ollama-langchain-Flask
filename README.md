@@ -8,3 +8,11 @@ The frontend interface is designed using HTML, JavaScript, and Tailwind CSS to p
 
 This project also serves as a strong beginner-to-intermediate portfolio project for Artificial Intelligence and Machine Learning engineering. It demonstrates practical skills in local LLM deployment, AI-assisted search workflows, Flask backend development, prompt engineering, LangChain integration, and full-stack AI application development. Future improvements for the project can include conversation memory, voice assistant capabilities, PDF document chat, streaming AI responses, multi-agent systems, and database integration for persistent chat history.
 # AI-Search-chatbot-using-ollama-langchain
+
+## Tech Stack
+
+- Flask
+- LangChain
+- Ollama
+- Phi3
+- Tailwind CSS
