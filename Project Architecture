@@ -1,6 +1,4 @@
 ## Project Architecture
-
-```plaintext
                 ┌──────────────────────┐
                 │        User          │
                 └──────────┬───────────┘
